@@ -4,7 +4,6 @@ c.auto_save.session = True# 重新打开时恢复站点
 
 # ********** QT **********
 
-
 # ********** URL **********
 
 c.url.auto_search = 'dns'# 正确搜索网址，不正确直接搜索
