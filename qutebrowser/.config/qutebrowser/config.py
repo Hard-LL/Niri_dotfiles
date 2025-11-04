@@ -1,5 +1,7 @@
 config.load_autoconfig(False)
 
+c.auto_save.session = True# 重新打开时恢复站点
+
 # ********** QT **********
 
 
